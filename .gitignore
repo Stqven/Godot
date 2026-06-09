@@ -1,0 +1,25 @@
+# Godot
+.import/
+*.import
+export_presets.cfg
+export.cfg
+
+# OS files
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build and temporary files
+bin/
+obj/
+tmp/
+cache/
+
+# Mono / C#
+*.mono/
+
+# User-specific
+*.tmp
+*.swp
